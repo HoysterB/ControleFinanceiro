@@ -1,0 +1,20 @@
+.dadosCategorias {
+  padding: 30px;
+
+  .header {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    .mat-grid-list {
+      .mat-grid-tile {
+        h2 {
+            position: absolute;
+            left: 5px;
+        }
+      }
+    }
+  }
+  .tabela {
+    width: 100%;
+    padding-top: 30px;
+  }
+}

@@ -1,0 +1,36 @@
+.divCard {
+  padding: 60px;
+  width: 500px;
+  margin: 0 auto;
+
+  .mat-card {
+    width: 100%;
+
+    .mat-card-header {
+      width: 100%;
+      margin: 0 auto;
+
+      .mat-card-title {
+        margin: 16px auto 16px auto;
+        font-weight: 300;
+      }
+    }
+
+    form {
+      width: 100%;
+
+      .mat-card-content {
+        width: 100%;
+        margin: 32px auto 32px auto;
+
+        div {
+          width: 100%;
+
+          .mat-form-field {
+            width: 400px;
+          }
+        }
+      }
+    }
+  }
+}
